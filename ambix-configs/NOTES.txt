@@ -1,0 +1,12 @@
+BRIRs recorded by Chris Pike using Neumann KU100 dummy head (BBC R&D, Salford) 2016.
+ambiX Ambisonics decoder matrices created by Michael Romanov (KUG, Graz) 2017.
+
+This set of ambiX config files includes all loudspeaker layouts defined in
+Recommendation ITU-R BS.2051-0 and impulse responses measured in the listening
+room at BBC R&D in Salford, UK.
+
+Decoder matrices are calculated as proposed in [1].
+
+[1] M. Romanov, M. Frank, F. Zotter, and T. Nixon, "Manipulations improving
+amplitude panning on small standard loudspeaker arrangements for surround with
+height" from 29th Tonmeistertagung, 2016.
