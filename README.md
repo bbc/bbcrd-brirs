@@ -40,7 +40,7 @@ Scene configurations have been created for the [SoundScape Renderer](spatialaudi
 Configurations for the [AmbiX plug-ins](http://www.matthiaskronlachner.com/?p=2015) have also been created for rendering higher-order ambisonics to the loudspeaker layouts in [4] and auralising the results. Ambisonics decoder design was performed by Michael Romanov according to [6]. These plug-ins can be used within a digital audio workstation and a head tracking system such as [MrHeadTracker](https://git.iem.at/DIY/MrHeadTracker) can be used to rotate the ambisonic sound field to achieve a dynamic auralisation.
 
 ## License
-Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+Unless otherwise stated, all files in this repository are licensed under Creative Commons Attribution Share Alike 4.0 International https://creativecommons.org/licenses/by-sa/4.0/
 
 ## References
 [1] C. Pike and M. Romanov, “An impulse response dataset for dynamic data-based auralisation of advanced sound systems,” 142nd AES Convention, 2017.  
